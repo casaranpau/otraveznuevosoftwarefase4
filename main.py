@@ -348,6 +348,8 @@ if __name__ == "__main__":
     try:
         ejecutar_pruebas()
     except Exception as exc:
+        # Validaciones adicionales del sistema
+        
         # Última barrera: evita que una excepción inesperada cierre silenciosamente el sistema.
         logging.exception("Error no controlado en la ejecución principal")
         print("Se presentó un error inesperado, registrado en el archivo de logs:", exc)
