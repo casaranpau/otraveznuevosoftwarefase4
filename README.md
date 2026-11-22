@@ -35,7 +35,10 @@ SoftwareFJ_Fase4/
 ```
 
 ## Nota sobre métodos sobrecargados
-Python no implementa sobrecarga tradicional por firma como otros lenguajes. En este proyecto se demuestra una alternativa idiomática mediante parámetros opcionales en `calcular_costo`, permitiendo calcular con tarifa base, impuesto y descuento. Las clases especializadas sobrescriben el método para aplicar duración y unidades según el tipo de servicio.
+Python no implementa sobrecarga tradicional por firma como otros lenguajes. En este proyecto se demuestra una alternativa idiomática mediante parámetros opcionales en `calcular_costo`, 
+permitiendo calcular con tarifa base, impuesto y descuento. Las clases especializadas sobrescriben el método para aplicar duración y unidades según el tipo de servicio.
+Actualización README y documentación
+
 
 ## Evidencias recomendadas para la entrega
 1. Captura de la ejecución de `python main.py` donde se vean las operaciones y errores controlados.
