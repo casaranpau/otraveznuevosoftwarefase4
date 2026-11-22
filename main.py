@@ -1,4 +1,3 @@
-feature-reserva
 """Sistema Integral de Gestión de Clientes, Servicios y Reservas - Software FJ.
 Proyecto académico de Programación (UNAD), Fase 4. No utiliza bases de datos.
 Ejecutar con: python main.py
